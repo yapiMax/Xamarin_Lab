@@ -220,11 +220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SLIIT\\EAD\\Lab1609\\Lab.Net\\Lab.Net\\Lab.Net.csproj",
+      "projectUniqueName": "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab.Net\\Lab.Net\\Lab.Net.csproj",
       "projectName": "Lab.Net",
-      "projectPath": "D:\\SLIIT\\EAD\\Lab1609\\Lab.Net\\Lab.Net\\Lab.Net.csproj",
+      "projectPath": "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab.Net\\Lab.Net\\Lab.Net.csproj",
       "packagesPath": "C:\\Users\\yapilk\\.nuget\\packages\\",
-      "outputPath": "D:\\SLIIT\\EAD\\Lab1609\\Lab.Net\\Lab.Net\\obj\\",
+      "outputPath": "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab.Net\\Lab.Net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

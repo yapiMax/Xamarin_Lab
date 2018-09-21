@@ -9,3 +9,15 @@ D:\SLIIT\EAD\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.csproj.Cop
 D:\SLIIT\EAD\Lab1609\Lab.Net\Lab.Net\bin\Debug\netstandard2.0\Lab.Net.pdb
 D:\SLIIT\EAD\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.dll
 D:\SLIIT\EAD\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.pdb
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\bin\Debug\netstandard2.0\Lab.Net.deps.json
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\bin\Debug\netstandard2.0\Lab.Net.dll
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\bin\Debug\netstandard2.0\Lab.Net.pdb
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\bin\Debug\netstandard2.0\Lab.Data.dll
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\bin\Debug\netstandard2.0\Lab.Data.pdb
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.csprojAssemblyReference.cache
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.csproj.CoreCompileInputs.cache
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.AssemblyInfoInputs.cache
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.AssemblyInfo.cs
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.csproj.CopyComplete
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.dll
+D:\SLIIT\EAD\Lab\trunk\Lab1609\Lab.Net\Lab.Net\obj\Debug\netstandard2.0\Lab.Net.pdb

@@ -29,13 +29,13 @@ namespace Lab.Data
         [JsonProperty(PropertyName = "company")]
         private UserCompany Company;
 
-        public int ID1 { get => ID; set => ID = value; }
-        public string Name1 { get => Name; set => Name = value; }
-        public string Username1 { get => Username; set => Username = value; }
-        public string Email1 { get => Email; set => Email = value; }
-        public UserAddress Address1 { get => Address; set => Address = value; }
-        public string Phone1 { get => Phone; set => Phone = value; }
-        public string Website1 { get => Website; set => Website = value; }
-        public UserCompany Company1 { get => Company; set => Company = value; }
+        public int pID { get => ID; set => ID = value; }
+        public string pName { get => Name; set => Name = value; }
+        public string pUsername { get => Username; set => Username = value; }
+        public string pEmail { get => Email; set => Email = value; }
+        public UserAddress pAddress { get => Address; set => Address = value; }
+        public string pPhone { get => Phone; set => Phone = value; }
+        public string pWebsite { get => Website; set => Website = value; }
+        public UserCompany pCompany { get => Company; set => Company = value; }
     }
 }

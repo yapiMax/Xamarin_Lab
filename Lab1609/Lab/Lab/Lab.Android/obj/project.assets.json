@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SLIIT\\EAD\\Lab1609\\Lab\\Lab\\Lab.Android\\Lab.Android.csproj",
+      "projectUniqueName": "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab\\Lab\\Lab.Android\\Lab.Android.csproj",
       "projectName": "Lab.Android",
-      "projectPath": "D:\\SLIIT\\EAD\\Lab1609\\Lab\\Lab\\Lab.Android\\Lab.Android.csproj",
+      "projectPath": "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab\\Lab\\Lab.Android\\Lab.Android.csproj",
       "packagesPath": "C:\\Users\\yapilk\\.nuget\\packages\\",
-      "outputPath": "D:\\SLIIT\\EAD\\Lab1609\\Lab\\Lab\\Lab.Android\\obj\\",
+      "outputPath": "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab\\Lab\\Lab.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -845,8 +845,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "D:\\SLIIT\\EAD\\Lab1609\\Lab\\Lab\\Lab\\Lab.csproj": {
-              "projectPath": "D:\\SLIIT\\EAD\\Lab1609\\Lab\\Lab\\Lab\\Lab.csproj"
+            "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab\\Lab\\Lab\\Lab.csproj": {
+              "projectPath": "D:\\SLIIT\\EAD\\Lab\\trunk\\Lab1609\\Lab\\Lab\\Lab\\Lab.csproj"
             }
           }
         }
