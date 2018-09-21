@@ -1,0 +1,17 @@
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.deps.json
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.dll
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.pdb
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.Data.dll
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.Net.dll
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.Data.pdb
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\bin\Debug\netstandard2.0\Lab.Net.pdb
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.csproj.CoreCompileInputs.cache
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.AssemblyInfoInputs.cache
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.AssemblyInfo.cs
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.csproj.CopyComplete
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.dll
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.pdb
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SLIIT\EAD\Lab1609\Lab\Lab\Lab\obj\Debug\netstandard2.0\Lab.csprojAssemblyReference.cache

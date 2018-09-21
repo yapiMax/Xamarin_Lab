@@ -1,0 +1,8 @@
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\bin\Debug\netstandard2.0\Lab.Data.deps.json
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\bin\Debug\netstandard2.0\Lab.Data.dll
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\obj\Debug\netstandard2.0\Lab.Data.csproj.CoreCompileInputs.cache
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\obj\Debug\netstandard2.0\Lab.Data.AssemblyInfoInputs.cache
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\obj\Debug\netstandard2.0\Lab.Data.AssemblyInfo.cs
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\bin\Debug\netstandard2.0\Lab.Data.pdb
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\obj\Debug\netstandard2.0\Lab.Data.dll
+D:\SLIIT\EAD\Lab1609\Lab.Data\Lab.Data\obj\Debug\netstandard2.0\Lab.Data.pdb
